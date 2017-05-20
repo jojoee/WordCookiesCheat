@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-Word Cookies game Cheat with python Edit
+Word Cookies game Cheat with python 
 
 https://ahmadly.com
 
