@@ -1,5 +1,5 @@
 hi,
-this is a simple solotion to guess Word Cookies game words.
+this is a simple solution to guess Word Cookies game words.
 
 i maked word table (all_words.pickle) if you need , you can use your word files.just copy all .txt in files folder and run gen_words.py
 
